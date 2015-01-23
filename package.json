@@ -1,0 +1,25 @@
+{
+  "name": "MochaTesting",
+  "version": "1.0.0",
+  "description": "learning javascript with mocha and chai",
+  "main": "app.js",
+  dependencies: {
+  },
+  devDependencies: {
+    "chai": "^1.10.0",
+    mocha: ^2.1.0
+  },
+  scripts: {
+    test: mocha
+  },     
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayumi-b/MochaTesting.git"
+  },
+  "author": "ayumi <ayumi.fukuda@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayumi-b/MochaTesting/issues"
+  },
+  "homepage": "https://github.com/ayumi-b/MochaTesting"
+}
